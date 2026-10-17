@@ -1,0 +1,7 @@
+/datasets/
+/pipeline_visual_examples/
+/runs/
+/weights/
+*.pdf
+*.pt
+__pycache__
